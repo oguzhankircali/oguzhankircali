@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Authority Partners
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: oguzhankircali.com
+- 📫 How to reach me: [oguzhankircali.com](https://oguzhankircali.com)
 
 <!--
 **oguzhankircali/oguzhankircali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
