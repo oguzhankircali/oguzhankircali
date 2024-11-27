@@ -9,4 +9,6 @@
 
 Here are some ideas to get you started:
 
+<script src="https://gist.github.com/oguzhankircali/6f1c25722ee0e5e439c69a6719f1bb3d.js"></script>
+
 
