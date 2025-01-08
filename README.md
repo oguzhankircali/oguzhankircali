@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Authority Partners
-- 🌱 I’m currently learning Blazor
+- 🔭 I’m currently working on The Liberty Lab
+- 🌱 I’m currently working on a project which is building with AspNetZero Framework (Angular + Web API) on Azure
 - 📫 Reach me via [oguzhankircali.com](https://oguzhankircali.com/contact)
 
 <!--
