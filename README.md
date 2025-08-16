@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have been working as a software developer over a decade who works with .Net technologies mostly. Nowadays, my focus is on creating web APIs with entity framework which is hosted on Azure App Service with CQRS approach. I have experience to create web application with Angular. Also, I'm working as a Scrum team member.
+I have been working as a fullstack web developer over a decade who works with .Net technologies mostly. Nowadays, my focus is on creating web APIs with entity framework which is hosted on Azure App Service with CQRS approach. I have experience to create web application with Angular. Also, I'm working as a Scrum team member.
 
 ### Technical Skills
 **.Net:** Asp.Net Core, Asp.Net MVC, WCF, Web API, Minimal API, Entity Framework  
