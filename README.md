@@ -14,8 +14,7 @@ Git, Azure DevOps, Docker, HangFire, Serilog, Selenium, SignalR, AspNetZero, Asp
 
 
 
-- 🔭 I’m currently working at Elyntis as developer & co-founder
-- 🌱 I’m currently working on a project which is building with AspNetZero Framework (Angular + Web API) on Azure
+- 🔭 I’m currently working at Elyntis as developer & co-founder for a project which is building with AspNetZero Framework (Angular + Web API) on Azure
 - 🧑🏻‍💻 You can visit by blog via [oguzhankircali.com](https://oguzhankircali.com)
 - 📫 Reach me via e-mail: [merhaba@oguzhankircali.com](mailto:merhaba@oguzhankircali.com)
 
